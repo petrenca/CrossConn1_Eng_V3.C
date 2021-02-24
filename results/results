@@ -1,0 +1,236 @@
+#
+# Results on Wednesday February 24 2021 18:35:28 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. prolificID.
+# 14. nat_lang.
+# 15. other_lang.
+# 16. which_other.
+# 17. confused.
+# 18. investigating.
+# 19. suggestions.
+# 20. age.
+# 21. item_number.
+# 22. item_name.
+# 23. old_item_name.
+# 24. disjunction_type.
+# 25. condition.
+# 26. type.
+# 27. outcome.
+# 28. sentence_intro.
+# 29. sentence_guess.
+# 30. sentence_outcome.
+# 31. Comments.
+1614191729,a24078ffc15e40c3e95273834d247143,PennController,40,0,post_questionaire,NULL,PennController,2,_Trial_,Start,1614191703347,undefined,undefined,undefined,undefined,NaN,,,,post,post,post,post,post,post,post,post,post,post,NULL
+1614191729,a24078ffc15e40c3e95273834d247143,PennController,40,0,post_questionaire,NULL,PennController,2,_Trial_,End,1614191728721,undefined,undefined,undefined,undefined,NaN,,,,post,post,post,post,post,post,post,post,post,post,NULL
+#
+# Results on Wednesday February 24 2021 18:40:55 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. prolificID.
+# 14. nat_lang.
+# 15. other_lang.
+# 16. which_other.
+# 17. confused.
+# 18. investigating.
+# 19. suggestions.
+# 20. age.
+# 21. item_number.
+# 22. item_name.
+# 23. old_item_name.
+# 24. disjunction_type.
+# 25. condition.
+# 26. type.
+# 27. outcome.
+# 28. sentence_intro.
+# 29. sentence_guess.
+# 30. sentence_outcome.
+# 31. Comments.
+1614192056,a24078ffc15e40c3e95273834d247143,PennController,40,0,post_questionaire,NULL,PennController,2,_Trial_,Start,1614192044536,undefined,undefined,undefined,undefined,NaN,eeeee,eeeeeee,ee,post,post,post,post,post,post,post,post,post,post,NULL
+1614192056,a24078ffc15e40c3e95273834d247143,PennController,40,0,post_questionaire,NULL,PennController,2,_Trial_,End,1614192055727,undefined,undefined,undefined,undefined,NaN,eeeee,eeeeeee,ee,post,post,post,post,post,post,post,post,post,post,NULL
+#
+# Results on Wednesday February 24 2021 19:43:52 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. prolificID.
+# 14. nat_lang.
+# 15. other_lang.
+# 16. which_other.
+# 17. confused.
+# 18. investigating.
+# 19. suggestions.
+# 20. age.
+# 21. item_number.
+# 22. item_name.
+# 23. old_item_name.
+# 24. disjunction_type.
+# 25. condition.
+# 26. type.
+# 27. outcome.
+# 28. sentence_intro.
+# 29. sentence_guess.
+# 30. sentence_outcome.
+# 31. Comments.
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1614195637792,s,s,,,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,0,0,demographics,NULL,DropDown,other_languages,Selected,,Never,s,s,,,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,Default
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1614195641989,s,s,,,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,1,0,practice_trials,NULL,PennController,4,_Trial_,Start,1614195641991,s,s,,,practice,practice,practice,practice,37,p1,p1,practice,practice_true,practice,practice,Ruth is studying art at the university. ,She will build a sculpture for the class.,She painted a landscape. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,1,0,practice_trials,NULL,Scale,question,Choice,YES,1614195647664,s,s,,,practice,practice,practice,practice,37,p1,p1,practice,practice_true,practice,practice,Ruth is studying art at the university. ,She will build a sculpture for the class.,She painted a landscape. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,1,0,practice_trials,NULL,PennController,4,_Trial_,End,1614195648482,s,s,,,practice,practice,practice,practice,37,p1,p1,practice,practice_true,practice,practice,Ruth is studying art at the university. ,She will build a sculpture for the class.,She painted a landscape. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,2,0,practice_trials,NULL,PennController,5,_Trial_,Start,1614195648486,s,s,,,practice,practice,practice,practice,38,p2,p2,practice,practice_false,practice,practice,Jack loves hiking in the mountains.  ,He will go hiking tomorrow.,He climbed a mountain.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,2,0,practice_trials,NULL,Scale,question,Choice,YES,1614195652071,s,s,,,practice,practice,practice,practice,38,p2,p2,practice,practice_false,practice,practice,Jack loves hiking in the mountains.  ,He will go hiking tomorrow.,He climbed a mountain.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,2,0,practice_trials,NULL,PennController,5,_Trial_,End,1614195653788,s,s,,,practice,practice,practice,practice,38,p2,p2,practice,practice_false,practice,practice,Jack loves hiking in the mountains.  ,He will go hiking tomorrow.,He climbed a mountain.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,3,0,instructions,NULL,PennController,1,_Trial_,Start,1614195653790,s,s,,,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,3,0,instructions,NULL,PennController,1,_Trial_,End,1614195655232,s,s,,,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,28,0,filler_trials,NULL,PennController,30,_Trial_,Start,1614195655235,s,s,,,fillers,fillers,fillers,fillers,25,n1,f17,numeral,target,filler_item,more than two,May is wondering who's making the noise. ,She will find two children playing.,She found three children playing.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,28,0,filler_trials,NULL,Scale,question,Choice,YES,1614195659160,s,s,,,fillers,fillers,fillers,fillers,25,n1,f17,numeral,target,filler_item,more than two,May is wondering who's making the noise. ,She will find two children playing.,She found three children playing.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,28,0,filler_trials,NULL,PennController,30,_Trial_,End,1614195659907,s,s,,,fillers,fillers,fillers,fillers,25,n1,f17,numeral,target,filler_item,more than two,May is wondering who's making the noise. ,She will find two children playing.,She found three children playing.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,15,0,critical_trials,NULL,PennController,17,_Trial_,Start,1614195659910,s,s,,,experimental,experimental,experimental,experimental,12,d12,t9,complex,control_false,test_item,neither,Charlie's parents took him to the toy store.,He will play either with the car or the train.,They bought him an airplane. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,15,0,critical_trials,NULL,Scale,question,Choice,YES,1614195664112,s,s,,,experimental,experimental,experimental,experimental,12,d12,t9,complex,control_false,test_item,neither,Charlie's parents took him to the toy store.,He will play either with the car or the train.,They bought him an airplane. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,15,0,critical_trials,NULL,PennController,17,_Trial_,End,1614195666123,s,s,,,experimental,experimental,experimental,experimental,12,d12,t9,complex,control_false,test_item,neither,Charlie's parents took him to the toy store.,He will play either with the car or the train.,They bought him an airplane. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,35,0,filler_trials,NULL,PennController,37,_Trial_,Start,1614195666127,s,s,,,fillers,fillers,fillers,fillers,32,n8,new,numeral,control_true,filler_item,two,Tracy is advertising a new play.,She will put up two posters in the hall. ,She put up two of them,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,35,0,filler_trials,NULL,Scale,question,Choice,YES,1614195671719,s,s,,,fillers,fillers,fillers,fillers,32,n8,new,numeral,control_true,filler_item,two,Tracy is advertising a new play.,She will put up two posters in the hall. ,She put up two of them,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,35,0,filler_trials,NULL,PennController,37,_Trial_,End,1614195673195,s,s,,,fillers,fillers,fillers,fillers,32,n8,new,numeral,control_true,filler_item,two,Tracy is advertising a new play.,She will put up two posters in the hall. ,She put up two of them,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,32,0,filler_trials,NULL,PennController,34,_Trial_,Start,1614195673197,s,s,,,fillers,fillers,fillers,fillers,29,n5,f14,numeral,control_true,filler_item,two,Sofie wants to clean the house.,She will clean two rooms in the house.,She cleaned the bathroom and the kitchen.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,32,0,filler_trials,NULL,Scale,question,Choice,YES,1614195676479,s,s,,,fillers,fillers,fillers,fillers,29,n5,f14,numeral,control_true,filler_item,two,Sofie wants to clean the house.,She will clean two rooms in the house.,She cleaned the bathroom and the kitchen.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,32,0,filler_trials,NULL,PennController,34,_Trial_,End,1614195677297,s,s,,,fillers,fillers,fillers,fillers,29,n5,f14,numeral,control_true,filler_item,two,Sofie wants to clean the house.,She will clean two rooms in the house.,She cleaned the bathroom and the kitchen.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,10,0,critical_trials,NULL,PennController,12,_Trial_,Start,1614195677301,s,s,,,experimental,experimental,experimental,experimental,7,d7,t7,complex,target,test_item,both,Rachel is invited to a gala.,She will wear either a necklace or a hat.,She wore both.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,10,0,critical_trials,NULL,Scale,question,Choice,YES,1614195680352,s,s,,,experimental,experimental,experimental,experimental,7,d7,t7,complex,target,test_item,both,Rachel is invited to a gala.,She will wear either a necklace or a hat.,She wore both.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,10,0,critical_trials,NULL,PennController,12,_Trial_,End,1614195681018,s,s,,,experimental,experimental,experimental,experimental,7,d7,t7,complex,target,test_item,both,Rachel is invited to a gala.,She will wear either a necklace or a hat.,She wore both.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,38,0,filler_trials,NULL,PennController,40,_Trial_,Start,1614195681020,s,s,,,fillers,fillers,fillers,fillers,35,n11,new,numeral,control_true,filler_item,two,Megan's cousin is getting married this weekend. ,Megan will give her two gifts.,She brought two gifts. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,38,0,filler_trials,NULL,Scale,question,Choice,YES,1614195685240,s,s,,,fillers,fillers,fillers,fillers,35,n11,new,numeral,control_true,filler_item,two,Megan's cousin is getting married this weekend. ,Megan will give her two gifts.,She brought two gifts. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,38,0,filler_trials,NULL,PennController,40,_Trial_,End,1614195685825,s,s,,,fillers,fillers,fillers,fillers,35,n11,new,numeral,control_true,filler_item,two,Megan's cousin is getting married this weekend. ,Megan will give her two gifts.,She brought two gifts. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,36,0,filler_trials,NULL,PennController,38,_Trial_,Start,1614195685827,s,s,,,fillers,fillers,fillers,fillers,33,n9,f18,numeral,control_false,filler_item,less than two,Kyle is going shopping to the mall.,He will buy two jackets at the store.,He bought one jacket.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,36,0,filler_trials,NULL,Scale,question,Choice,YES,1614195689055,s,s,,,fillers,fillers,fillers,fillers,33,n9,f18,numeral,control_false,filler_item,less than two,Kyle is going shopping to the mall.,He will buy two jackets at the store.,He bought one jacket.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,36,0,filler_trials,NULL,PennController,38,_Trial_,End,1614195689747,s,s,,,fillers,fillers,fillers,fillers,33,n9,f18,numeral,control_false,filler_item,less than two,Kyle is going shopping to the mall.,He will buy two jackets at the store.,He bought one jacket.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,8,0,critical_trials,NULL,PennController,10,_Trial_,Start,1614195689749,s,s,,,experimental,experimental,experimental,experimental,5,d5,t5,complex,control_true,test_item,only one,Mike is planning to go for a walk.,He will put on either a hat or a scarf.,He only put on a scarf.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,8,0,critical_trials,NULL,Scale,question,Choice,YES,1614195692583,s,s,,,experimental,experimental,experimental,experimental,5,d5,t5,complex,control_true,test_item,only one,Mike is planning to go for a walk.,He will put on either a hat or a scarf.,He only put on a scarf.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,8,0,critical_trials,NULL,PennController,10,_Trial_,End,1614195693249,s,s,,,experimental,experimental,experimental,experimental,5,d5,t5,complex,control_true,test_item,only one,Mike is planning to go for a walk.,He will put on either a hat or a scarf.,He only put on a scarf.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,31,0,filler_trials,NULL,PennController,33,_Trial_,Start,1614195693252,s,s,,,fillers,fillers,fillers,fillers,28,n4,f13,numeral,target,filler_item,more than two,Emily is going to the flower shop.,She will buy two plants at the store.,She bought three plants. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,31,0,filler_trials,NULL,Scale,question,Choice,YES,1614195696582,s,s,,,fillers,fillers,fillers,fillers,28,n4,f13,numeral,target,filler_item,more than two,Emily is going to the flower shop.,She will buy two plants at the store.,She bought three plants. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,31,0,filler_trials,NULL,PennController,33,_Trial_,End,1614195697137,s,s,,,fillers,fillers,fillers,fillers,28,n4,f13,numeral,target,filler_item,more than two,Emily is going to the flower shop.,She will buy two plants at the store.,She bought three plants. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,26,0,filler_trials,NULL,PennController,28,_Trial_,Start,1614195697139,s,s,,,fillers,fillers,fillers,fillers,23,q11,f2,quantifier,control_true,filler_item,some,Benny woke up from a nap.,He will play with some of his toys.,He played with two toys.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,26,0,filler_trials,NULL,Scale,question,Choice,YES,1614195699822,s,s,,,fillers,fillers,fillers,fillers,23,q11,f2,quantifier,control_true,filler_item,some,Benny woke up from a nap.,He will play with some of his toys.,He played with two toys.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,26,0,filler_trials,NULL,PennController,28,_Trial_,End,1614195700337,s,s,,,fillers,fillers,fillers,fillers,23,q11,f2,quantifier,control_true,filler_item,some,Benny woke up from a nap.,He will play with some of his toys.,He played with two toys.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,13,0,critical_trials,NULL,PennController,15,_Trial_,Start,1614195700339,s,s,,,experimental,experimental,experimental,experimental,10,d10,new,complex,target,test_item,both,The children are starting a new school year.,They will bring either flowers or ballons.,They brought both.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,13,0,critical_trials,NULL,Scale,question,Choice,YES,1614195707512,s,s,,,experimental,experimental,experimental,experimental,10,d10,new,complex,target,test_item,both,The children are starting a new school year.,They will bring either flowers or ballons.,They brought both.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,13,0,critical_trials,NULL,PennController,15,_Trial_,End,1614195708292,s,s,,,experimental,experimental,experimental,experimental,10,d10,new,complex,target,test_item,both,The children are starting a new school year.,They will bring either flowers or ballons.,They brought both.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,19,0,filler_trials,NULL,PennController,21,_Trial_,Start,1614195708295,s,s,,,fillers,fillers,fillers,fillers,16,q4,f4,quantifier,target,filler_item,all,Victoria is looking forward to her party.,She will give some of the guests birthday hats.,She gave birthday hats to all of them.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,19,0,filler_trials,NULL,Scale,question,Choice,YES,1614195712791,s,s,,,fillers,fillers,fillers,fillers,16,q4,f4,quantifier,target,filler_item,all,Victoria is looking forward to her party.,She will give some of the guests birthday hats.,She gave birthday hats to all of them.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,19,0,filler_trials,NULL,PennController,21,_Trial_,End,1614195714650,s,s,,,fillers,fillers,fillers,fillers,16,q4,f4,quantifier,target,filler_item,all,Victoria is looking forward to her party.,She will give some of the guests birthday hats.,She gave birthday hats to all of them.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,29,0,filler_trials,NULL,PennController,31,_Trial_,Start,1614195714652,s,s,,,fillers,fillers,fillers,fillers,26,n2,f11,numeral,control_true,filler_item,two,Joan wants to build garden furniture.,She will build two things for the garden.,She built a table and a chair.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,29,0,filler_trials,NULL,Scale,question,Choice,YES,1614195719015,s,s,,,fillers,fillers,fillers,fillers,26,n2,f11,numeral,control_true,filler_item,two,Joan wants to build garden furniture.,She will build two things for the garden.,She built a table and a chair.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,29,0,filler_trials,NULL,PennController,31,_Trial_,End,1614195720185,s,s,,,fillers,fillers,fillers,fillers,26,n2,f11,numeral,control_true,filler_item,two,Joan wants to build garden furniture.,She will build two things for the garden.,She built a table and a chair.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,11,0,critical_trials,NULL,PennController,13,_Trial_,Start,1614195720187,s,s,,,experimental,experimental,experimental,experimental,8,d8,t8,complex,control_true,test_item,only one,Gabe wants to relax this evening.,He will knit either a scarf or socks.,He only knitted a scarf.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,11,0,critical_trials,NULL,Scale,question,Choice,YES,1614195724047,s,s,,,experimental,experimental,experimental,experimental,8,d8,t8,complex,control_true,test_item,only one,Gabe wants to relax this evening.,He will knit either a scarf or socks.,He only knitted a scarf.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,11,0,critical_trials,NULL,PennController,13,_Trial_,End,1614195724673,s,s,,,experimental,experimental,experimental,experimental,8,d8,t8,complex,control_true,test_item,only one,Gabe wants to relax this evening.,He will knit either a scarf or socks.,He only knitted a scarf.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,27,0,filler_trials,NULL,PennController,29,_Trial_,Start,1614195724675,s,s,,,fillers,fillers,fillers,fillers,24,q12,new,quantifier,control_false,filler_item,none,Lily is moving out of her shared apartment.,She will take some of the living room paintings. ,She took none. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,27,0,filler_trials,NULL,Scale,question,Choice,YES,1614195730112,s,s,,,fillers,fillers,fillers,fillers,24,q12,new,quantifier,control_false,filler_item,none,Lily is moving out of her shared apartment.,She will take some of the living room paintings. ,She took none. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,27,0,filler_trials,NULL,PennController,29,_Trial_,End,1614195731072,s,s,,,fillers,fillers,fillers,fillers,24,q12,new,quantifier,control_false,filler_item,none,Lily is moving out of her shared apartment.,She will take some of the living room paintings. ,She took none. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,20,0,filler_trials,NULL,PennController,22,_Trial_,Start,1614195731073,s,s,,,fillers,fillers,fillers,fillers,17,q5,new,quantifier,control_true,filler_item,some,Nick is making soup for dinner.,He will use some of the vegetables.,He used only some.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,20,0,filler_trials,NULL,Scale,question,Choice,YES,1614195734973,s,s,,,fillers,fillers,fillers,fillers,17,q5,new,quantifier,control_true,filler_item,some,Nick is making soup for dinner.,He will use some of the vegetables.,He used only some.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,20,0,filler_trials,NULL,PennController,22,_Trial_,End,1614195735481,s,s,,,fillers,fillers,fillers,fillers,17,q5,new,quantifier,control_true,filler_item,some,Nick is making soup for dinner.,He will use some of the vegetables.,He used only some.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,14,0,critical_trials,NULL,PennController,16,_Trial_,Start,1614195735484,s,s,,,experimental,experimental,experimental,experimental,11,d11,new,complex,control_true,test_item,only one,The villagers are setting up for a fair.,They will put up either ballons or flags.,They put up flags only.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,14,0,critical_trials,NULL,Scale,question,Choice,YES,1614195738784,s,s,,,experimental,experimental,experimental,experimental,11,d11,new,complex,control_true,test_item,only one,The villagers are setting up for a fair.,They will put up either ballons or flags.,They put up flags only.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,14,0,critical_trials,NULL,PennController,16,_Trial_,End,1614195739266,s,s,,,experimental,experimental,experimental,experimental,11,d11,new,complex,control_true,test_item,only one,The villagers are setting up for a fair.,They will put up either ballons or flags.,They put up flags only.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,34,0,filler_trials,NULL,PennController,36,_Trial_,Start,1614195739267,s,s,,,fillers,fillers,fillers,fillers,31,n7,f16,numeral,target,filler_item,more than two,Anton is going on a trip.,He will bring two suitcases with him.,He brought four pieces of luggage.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,34,0,filler_trials,NULL,Scale,question,Choice,YES,1614195742335,s,s,,,fillers,fillers,fillers,fillers,31,n7,f16,numeral,target,filler_item,more than two,Anton is going on a trip.,He will bring two suitcases with him.,He brought four pieces of luggage.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,34,0,filler_trials,NULL,PennController,36,_Trial_,End,1614195743010,s,s,,,fillers,fillers,fillers,fillers,31,n7,f16,numeral,target,filler_item,more than two,Anton is going on a trip.,He will bring two suitcases with him.,He brought four pieces of luggage.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,17,0,filler_trials,NULL,PennController,19,_Trial_,Start,1614195743013,s,s,,,fillers,fillers,fillers,fillers,14,q2,new,quantifier,control_true,filler_item,some,A tornado is coming this night.,It will tear down some of the trees.,Some of the trees fell down.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,17,0,filler_trials,NULL,Scale,question,Choice,YES,1614195746136,s,s,,,fillers,fillers,fillers,fillers,14,q2,new,quantifier,control_true,filler_item,some,A tornado is coming this night.,It will tear down some of the trees.,Some of the trees fell down.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,17,0,filler_trials,NULL,PennController,19,_Trial_,End,1614195747052,s,s,,,fillers,fillers,fillers,fillers,14,q2,new,quantifier,control_true,filler_item,some,A tornado is coming this night.,It will tear down some of the trees.,Some of the trees fell down.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,4,0,critical_trials,NULL,PennController,6,_Trial_,Start,1614195747053,s,s,,,experimental,experimental,experimental,experimental,1,d1,t1,complex,target,test_item,both,Laura decided to start a garden.,She will plant either a cherry or an apple tree.,She planted both.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,4,0,critical_trials,NULL,Scale,question,Choice,YES,1614195749856,s,s,,,experimental,experimental,experimental,experimental,1,d1,t1,complex,target,test_item,both,Laura decided to start a garden.,She will plant either a cherry or an apple tree.,She planted both.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,4,0,critical_trials,NULL,PennController,6,_Trial_,End,1614195750377,s,s,,,experimental,experimental,experimental,experimental,1,d1,t1,complex,target,test_item,both,Laura decided to start a garden.,She will plant either a cherry or an apple tree.,She planted both.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,39,0,filler_trials,NULL,PennController,41,_Trial_,Start,1614195750378,s,s,,,fillers,fillers,fillers,fillers,36,n12,new,numeral,control_false,filler_item,less than two,Jamie works at an animal shelter. ,He will take two dogs for a walk. ,He only took one. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,39,0,filler_trials,NULL,Scale,question,Choice,YES,1614195753927,s,s,,,fillers,fillers,fillers,fillers,36,n12,new,numeral,control_false,filler_item,less than two,Jamie works at an animal shelter. ,He will take two dogs for a walk. ,He only took one. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,39,0,filler_trials,NULL,PennController,41,_Trial_,End,1614195754450,s,s,,,fillers,fillers,fillers,fillers,36,n12,new,numeral,control_false,filler_item,less than two,Jamie works at an animal shelter. ,He will take two dogs for a walk. ,He only took one. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,21,0,filler_trials,NULL,PennController,23,_Trial_,Start,1614195754452,s,s,,,fillers,fillers,fillers,fillers,18,q6,new,quantifier,control_false,filler_item,none,Paul decided to go to bed.,He will put away some of the books.,He put away none.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,21,0,filler_trials,NULL,Scale,question,Choice,YES,1614195757864,s,s,,,fillers,fillers,fillers,fillers,18,q6,new,quantifier,control_false,filler_item,none,Paul decided to go to bed.,He will put away some of the books.,He put away none.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,21,0,filler_trials,NULL,PennController,23,_Trial_,End,1614195758514,s,s,,,fillers,fillers,fillers,fillers,18,q6,new,quantifier,control_false,filler_item,none,Paul decided to go to bed.,He will put away some of the books.,He put away none.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,7,0,critical_trials,NULL,PennController,9,_Trial_,Start,1614195758515,s,s,,,experimental,experimental,experimental,experimental,4,d4,t4,complex,target,test_item,both,Amelia is going to a birthday party.,She will bring either a bouquet of flowers or balloons.,She brought both.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,7,0,critical_trials,NULL,Scale,question,Choice,YES,1614195775583,s,s,,,experimental,experimental,experimental,experimental,4,d4,t4,complex,target,test_item,both,Amelia is going to a birthday party.,She will bring either a bouquet of flowers or balloons.,She brought both.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,7,0,critical_trials,NULL,PennController,9,_Trial_,End,1614195777123,s,s,,,experimental,experimental,experimental,experimental,4,d4,t4,complex,target,test_item,both,Amelia is going to a birthday party.,She will bring either a bouquet of flowers or balloons.,She brought both.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,33,0,filler_trials,NULL,PennController,35,_Trial_,Start,1614195777125,s,s,,,fillers,fillers,fillers,fillers,30,n6,f15,numeral,control_false,filler_item,less than two,Jessica is competing in the Olympics.,She will win two medals in the Olympics.,She only won one medal.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,33,0,filler_trials,NULL,Scale,question,Choice,YES,1614195780623,s,s,,,fillers,fillers,fillers,fillers,30,n6,f15,numeral,control_false,filler_item,less than two,Jessica is competing in the Olympics.,She will win two medals in the Olympics.,She only won one medal.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,33,0,filler_trials,NULL,PennController,35,_Trial_,End,1614195781377,s,s,,,fillers,fillers,fillers,fillers,30,n6,f15,numeral,control_false,filler_item,less than two,Jessica is competing in the Olympics.,She will win two medals in the Olympics.,She only won one medal.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,23,0,filler_trials,NULL,PennController,25,_Trial_,Start,1614195781379,s,s,,,fillers,fillers,fillers,fillers,20,q8,f8,quantifier,control_true,filler_item,some,Julia is going to the beach with friends.,They will rent some of the sun umbrellas.,They occupied only some umbrellas.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,23,0,filler_trials,NULL,Scale,question,Choice,YES,1614195784623,s,s,,,fillers,fillers,fillers,fillers,20,q8,f8,quantifier,control_true,filler_item,some,Julia is going to the beach with friends.,They will rent some of the sun umbrellas.,They occupied only some umbrellas.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,23,0,filler_trials,NULL,PennController,25,_Trial_,End,1614195785401,s,s,,,fillers,fillers,fillers,fillers,20,q8,f8,quantifier,control_true,filler_item,some,Julia is going to the beach with friends.,They will rent some of the sun umbrellas.,They occupied only some umbrellas.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,6,0,critical_trials,NULL,PennController,8,_Trial_,Start,1614195785403,s,s,,,experimental,experimental,experimental,experimental,3,d3,t3,complex,control_false,test_item,neither,John is going to the market.,He will buy either a watermelon or a pumpkin.,He bought grapes.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,6,0,critical_trials,NULL,Scale,question,Choice,YES,1614195789325,s,s,,,experimental,experimental,experimental,experimental,3,d3,t3,complex,control_false,test_item,neither,John is going to the market.,He will buy either a watermelon or a pumpkin.,He bought grapes.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,6,0,critical_trials,NULL,PennController,8,_Trial_,End,1614195789896,s,s,,,experimental,experimental,experimental,experimental,3,d3,t3,complex,control_false,test_item,neither,John is going to the market.,He will buy either a watermelon or a pumpkin.,He bought grapes.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,22,0,filler_trials,NULL,PennController,24,_Trial_,Start,1614195789899,s,s,,,fillers,fillers,fillers,fillers,19,q7,f7,quantifier,target,filler_item,all,Olivia is done gardening for today.,She will put some of the tools back.,She put everything back in the shed.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,22,0,filler_trials,NULL,Scale,question,Choice,YES,1614195793478,s,s,,,fillers,fillers,fillers,fillers,19,q7,f7,quantifier,target,filler_item,all,Olivia is done gardening for today.,She will put some of the tools back.,She put everything back in the shed.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,22,0,filler_trials,NULL,PennController,24,_Trial_,End,1614195794041,s,s,,,fillers,fillers,fillers,fillers,19,q7,f7,quantifier,target,filler_item,all,Olivia is done gardening for today.,She will put some of the tools back.,She put everything back in the shed.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,30,0,filler_trials,NULL,PennController,32,_Trial_,Start,1614195794042,s,s,,,fillers,fillers,fillers,fillers,27,n3,f12,numeral,control_false,filler_item,less than two,Alex is cooking dinner for his mother.,He will cook two dishes for her.,He only cooked pasta.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,30,0,filler_trials,NULL,Scale,question,Choice,YES,1614195796829,s,s,,,fillers,fillers,fillers,fillers,27,n3,f12,numeral,control_false,filler_item,less than two,Alex is cooking dinner for his mother.,He will cook two dishes for her.,He only cooked pasta.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,30,0,filler_trials,NULL,PennController,32,_Trial_,End,1614195798097,s,s,,,fillers,fillers,fillers,fillers,27,n3,f12,numeral,control_false,filler_item,less than two,Alex is cooking dinner for his mother.,He will cook two dishes for her.,He only cooked pasta.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,9,0,critical_trials,NULL,PennController,11,_Trial_,Start,1614195798097,s,s,,,experimental,experimental,experimental,experimental,6,d6,t6,complex,control_false,test_item,neither,Oscar is going to a party. ,He will bring either a cake or chips. ,He brought a bottle. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,9,0,critical_trials,NULL,Scale,question,Choice,YES,1614195801559,s,s,,,experimental,experimental,experimental,experimental,6,d6,t6,complex,control_false,test_item,neither,Oscar is going to a party. ,He will bring either a cake or chips. ,He brought a bottle. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,9,0,critical_trials,NULL,PennController,11,_Trial_,End,1614195802378,s,s,,,experimental,experimental,experimental,experimental,6,d6,t6,complex,control_false,test_item,neither,Oscar is going to a party. ,He will bring either a cake or chips. ,He brought a bottle. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,24,0,filler_trials,NULL,PennController,26,_Trial_,Start,1614195802379,s,s,,,fillers,fillers,fillers,fillers,21,q9,new,quantifier,control_false,filler_item,none,Carmen made snacks for her son. ,He will try some of the snacks.,He didn't try any of them. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,24,0,filler_trials,NULL,Scale,question,Choice,YES,1614195806254,s,s,,,fillers,fillers,fillers,fillers,21,q9,new,quantifier,control_false,filler_item,none,Carmen made snacks for her son. ,He will try some of the snacks.,He didn't try any of them. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,24,0,filler_trials,NULL,PennController,26,_Trial_,End,1614195807016,s,s,,,fillers,fillers,fillers,fillers,21,q9,new,quantifier,control_false,filler_item,none,Carmen made snacks for her son. ,He will try some of the snacks.,He didn't try any of them. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,25,0,filler_trials,NULL,PennController,27,_Trial_,Start,1614195807018,s,s,,,fillers,fillers,fillers,fillers,22,q10,new,quantifier,target,filler_item,all,Marta plans to take a bubble bath. ,She will light up some of the candles.,she lit up all of them.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,25,0,filler_trials,NULL,Scale,question,Choice,YES,1614195810471,s,s,,,fillers,fillers,fillers,fillers,22,q10,new,quantifier,target,filler_item,all,Marta plans to take a bubble bath. ,She will light up some of the candles.,she lit up all of them.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,25,0,filler_trials,NULL,PennController,27,_Trial_,End,1614195811167,s,s,,,fillers,fillers,fillers,fillers,22,q10,new,quantifier,target,filler_item,all,Marta plans to take a bubble bath. ,She will light up some of the candles.,she lit up all of them.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,5,0,critical_trials,NULL,PennController,7,_Trial_,Start,1614195811168,s,s,,,experimental,experimental,experimental,experimental,2,d2,t2,complex,control_true,test_item,only one,Jen wants to decorate the wall. ,She will hang either a poster or a clock.,She only put up a clock.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,5,0,critical_trials,NULL,Scale,question,Choice,YES,1614195814529,s,s,,,experimental,experimental,experimental,experimental,2,d2,t2,complex,control_true,test_item,only one,Jen wants to decorate the wall. ,She will hang either a poster or a clock.,She only put up a clock.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,5,0,critical_trials,NULL,PennController,7,_Trial_,End,1614195815209,s,s,,,experimental,experimental,experimental,experimental,2,d2,t2,complex,control_true,test_item,only one,Jen wants to decorate the wall. ,She will hang either a poster or a clock.,She only put up a clock.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,37,0,filler_trials,NULL,PennController,39,_Trial_,Start,1614195815211,s,s,,,fillers,fillers,fillers,fillers,34,n10,new,numeral,target,filler_item,more than two,Mark received a box of chocolates from grandma.,He will eat two pieces from the box. ,He ate four.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,37,0,filler_trials,NULL,Scale,question,Choice,YES,1614195818784,s,s,,,fillers,fillers,fillers,fillers,34,n10,new,numeral,target,filler_item,more than two,Mark received a box of chocolates from grandma.,He will eat two pieces from the box. ,He ate four.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,37,0,filler_trials,NULL,PennController,39,_Trial_,End,1614195819410,s,s,,,fillers,fillers,fillers,fillers,34,n10,new,numeral,target,filler_item,more than two,Mark received a box of chocolates from grandma.,He will eat two pieces from the box. ,He ate four.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,18,0,filler_trials,NULL,PennController,20,_Trial_,Start,1614195819411,s,s,,,fillers,fillers,fillers,fillers,15,q3,new,quantifier,control_false,filler_item,none,Rona is planning a yard sale.,She will sell some of her dresses.,She sold none of them.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,18,0,filler_trials,NULL,Scale,question,Choice,YES,1614195822815,s,s,,,fillers,fillers,fillers,fillers,15,q3,new,quantifier,control_false,filler_item,none,Rona is planning a yard sale.,She will sell some of her dresses.,She sold none of them.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,18,0,filler_trials,NULL,PennController,20,_Trial_,End,1614195823457,s,s,,,fillers,fillers,fillers,fillers,15,q3,new,quantifier,control_false,filler_item,none,Rona is planning a yard sale.,She will sell some of her dresses.,She sold none of them.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,12,0,critical_trials,NULL,PennController,14,_Trial_,Start,1614195823459,s,s,,,experimental,experimental,experimental,experimental,9,d9,new,complex,control_false,test_item,neither,Mary is ordering food on the phone.,She will order either a soup or a salad.,She ordered pizza. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,12,0,critical_trials,NULL,Scale,question,Choice,YES,1614195826872,s,s,,,experimental,experimental,experimental,experimental,9,d9,new,complex,control_false,test_item,neither,Mary is ordering food on the phone.,She will order either a soup or a salad.,She ordered pizza. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,12,0,critical_trials,NULL,PennController,14,_Trial_,End,1614195827568,s,s,,,experimental,experimental,experimental,experimental,9,d9,new,complex,control_false,test_item,neither,Mary is ordering food on the phone.,She will order either a soup or a salad.,She ordered pizza. ,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,16,0,filler_trials,NULL,PennController,18,_Trial_,Start,1614195827570,s,s,,,fillers,fillers,fillers,fillers,13,q1,new,quantifier,target,filler_item,all,June is going to the barn.,She will feed some of the animals.,She fed all of them.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,16,0,filler_trials,NULL,Scale,question,Choice,YES,1614195830678,s,s,,,fillers,fillers,fillers,fillers,13,q1,new,quantifier,target,filler_item,all,June is going to the barn.,She will feed some of the animals.,She fed all of them.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,16,0,filler_trials,NULL,PennController,18,_Trial_,End,1614195831210,s,s,,,fillers,fillers,fillers,fillers,13,q1,new,quantifier,target,filler_item,all,June is going to the barn.,She will feed some of the animals.,She fed all of them.,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,40,0,post_questionaire,NULL,PennController,2,_Trial_,Start,1614195831212,s,s,,,NaN,,,,post,post,post,post,post,post,post,post,post,post,NULL
+1614195833,a24078ffc15e40c3e95273834d247143,PennController,40,0,post_questionaire,NULL,PennController,2,_Trial_,End,1614195832740,s,s,,,NaN,,,,post,post,post,post,post,post,post,post,post,post,NULL
